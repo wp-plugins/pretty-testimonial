@@ -251,9 +251,9 @@ function free_pretty_testimonial_options_framework() {
 
 <div class="wrap admin_panel">
 	
-<h1 style="margin-bottom:25px;font-size:20px;font-style:italic;text-decoration:underline">If you want to buy this plugin with lot of options please go to <a style="font-size:28px" href="http://demo.plugime.com/pretty-testimonial"> this link </a> </h1>
+<h1 style="margin-bottom:25px;font-size:20px;font-style:italic;text-decoration:underline">If you want of this plugin with lot of options and features please go to <a style="font-size:28px" href="http://demo.plugime.com/pretty-testimonial"> this link </a> </h1>
 
-<h1 style="margin-bottom:25px;font-size:20px;font-style:italic">Please go our site there have lot more good plugins <a href="http://plugime.com">Click Here</a></h1>
+<h1 style="margin-bottom:25px;font-size:20px;font-style:italic">Please go our plugins site there have lot more good plugins <a href="http://plugime.com">Click Here</a></h1>
 
 <h4 style="font-style:italic">Where you want pretty testimonial ? just copy the shortcode and paste where you want the pretty testimonial &nbsp;&nbsp; [testimonial id="1" category="home" ] &nbsp;( atfirst you must create a category. Please go to pretty testimonial custom post and create category name then put your category name like  category="category name" then you give a unique id in shortcode like id="id number" )</h4>
 	
