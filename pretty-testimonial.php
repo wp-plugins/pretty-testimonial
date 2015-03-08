@@ -251,7 +251,7 @@ function free_pretty_testimonial_options_framework() {
 
 <div class="wrap admin_panel">
 	
-<h1 style="margin-bottom:25px;font-size:20px;font-style:italic;text-decoration:underline">If you want of this plugin with lot of options and features please go to <a style="font-size:28px" href="http://demo.plugime.com/pretty-testimonial"> this link </a> </h1>
+<h1 style="margin-bottom:25px;font-size:20px;font-style:italic;text-decoration:underline">If you want this plugin with lot of options and features please go to <a style="font-size:28px" href="http://demo.plugime.com/pretty-testimonial"> this link </a> </h1>
 
 <h1 style="margin-bottom:25px;font-size:20px;font-style:italic">Please go our plugins site there have lot more good plugins <a href="http://plugime.com">Click Here</a></h1>
 
