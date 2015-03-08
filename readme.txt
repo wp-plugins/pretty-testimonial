@@ -1,7 +1,7 @@
 
 Plugin Name: Pretty Testimonial Wordpress
 Plugin URI:  http://raihanb.com/premium/pretty-testimonial-2/
-Description: TThis plugin will enable pretty testimonial in your WordPress site. You can change lot of options from option panel and shortcode
+Description: This plugin will enable pretty testimonial in your WordPress site. You can change lot of options from option panel and shortcode
 Author: Abu Sayed
 Author URI: http://plugime.com
 Version: 1.0
