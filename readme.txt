@@ -16,7 +16,14 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Here is a short description of the plugin.
+
+Pretty testimonial is an awesome, super lightweight plugin for your wordpress website. By installing this plugin you will get a awesome testimonial 
+
+== Description ==
+
+Wordpress Pretty Testimonial is a Highly customizable pretty testimonial jQuery plugin for your WordPress website. By this plugin you can customize your webpage pretty testimonial. And you can embed pretty testimonial in a single content via shortcode in everywhere you want, even in theme files.
+You can change Pretty testimonial Slideshow Speed,Animation Speed,Testimonial Direction,Animation Loop mode,Reverse Mode,Slideshow Mode,Smooth Height Mode, title color, title font size,content color, content font size,Testimonial background color,Hide or Show content,Client image Shape,Client image Shape, Client image size,Show or Hide Client image and other settings &amp; by using the options and shortcode of this plugin.
+
 
 == Installation ==
 
@@ -29,16 +36,33 @@ e.g.
 3. Place <?php echo do_shortcode('[testimonial]'); ?> in your templates
 
 
-Shortcode:
-[testimonial ]
+Shortcodes:
 
-Shortcode category support:
-[testimonial category="home"]
+<strong>Default testimonial with id (Give unique id)</strong>
+<pre>[testimonial id="1"]</pre>
 
-== Description ==
+<strong>Support category</strong>
+<pre>[testimonial category="your_category_name_here" id="2"]</pre>
 
-Wordpress Pretty Testimonial is a Highly customizable pretty testimonial jQuery plugin for your WordPress website. By this plugin you can customize your webpage pretty testimonial. And you can embed pretty testimonial in a single content via shortcode in everywhere you want, even in theme files.
-You can change Pretty testimonial Slideshow Speed,Animation Speed,Testimonial Direction,Animation Loop mode,Reverse Mode,Slideshow Mode,Smooth Height Mode, title color, title font size,content color, content font size,Testimonial background color,Hide or Show content,Client image Shape,Client image Shape, Client image size,Show or Hide Client image and other settings &amp; by using the options and shortcode of this plugin.
+<strong> Change background color (put color name or HTML hex color code like #000) </strong>
+<pre>[testimonial id="3" bg_color="black"]</pre>
+
+<strong> Content font size </strong>
+<pre>[testimonial id="4" content_font_size="16px"]</pre>
+
+<strong> Content color </strong>
+<pre>[testimonial id="5" content_color="black"]</pre>
+
+<strong> Hide content </strong>
+<pre>[testimonial id="6" client_content_none="none"]</pre>
+
+<strong> Title font size </strong>
+<pre>[testimonial id="6" client_title_font_size="16px"]</pre>
+
+<strong> Title font size </strong>
+<pre>[testimonial id="7" client_title_color="black"]</pre>
+
+
 
 
 Plugin Features:
@@ -72,8 +96,7 @@ Plugin Features:
 
 == Screenshots ==
 
-1. 
-2. 
+1. Installed in demo server.
 
 
 == Changelog ==
