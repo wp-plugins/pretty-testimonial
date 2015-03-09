@@ -16,17 +16,38 @@ Wordpress Pretty Testimonial is a Highly customizable pretty testimonial jQuery 
 You can change Pretty testimonial Slideshow Speed,Animation Speed,Testimonial Direction,Animation Loop mode,Reverse Mode,Slideshow Mode,Smooth Height Mode, title color, title font size,content color, content font size,Testimonial background color,Hide or Show content,Client image Shape,Client image Shape, Client image size,Show or Hide Client image and other settings &amp; by using the options and shortcode of this plugin.
 
 
-* <h1 style="margin-bottom:25px;font-size:20px;font-style:italic;text-decoration:underline">If you want this plugin with lot of options and features please go to <a style="font-size:28px" href="http://demo.plugime.com/pretty-testimonial"> this link </a> </h1>  <br>
+* <h1 style="margin-bottom:25px;font-size:20px;font-style:italic;text-decoration:underline">If you want this plugin with lot of options and features please go to <a style="font-size:28px" href="http://demo.plugime.com/pretty-testimonial"> this link </a> </h1>
 
 * [See the Live demo!&raquo;](http://raihanb.com/premium/pretty-testimonial-2)
-*  Pretty Testimonial by  http://plugime.com  <br>
+*  Pretty Testimonial by  http://plugime.com
 
+<strong> Plugin Features:- </strong>
 
-<p style="font-style:italic">Where you want pretty testimonial ? just copy the shortcode and paste where you want the pretty testimonial &nbsp;&nbsp; [testimonial ] &nbsp;. If you want to category post create a category name please go to "Testimonial Category" under Pretty Testimonial custom post copy this shortcode and paste where you want [testimonial category="category name here"]. If you want to lotmore testimonial on a page give a unique id in shortcode like [testimonial id="1"], [testimonial id="2"],[testimonial id="3"].</p> <br>
+1. Easy installable
+2. Fully responsive
+3. Supported all browser
+4. Use a Random Testimonial to Your Sidebar
+5. Use a Random Testimonial to Your Page
+6. Category support with id
+7. Number of post
+8. Able To Use Multiple Testimonial Themes on the Same Page
+9. Support in widget
+10. Title color
+11. Content color
+12. Title font size
+13. Content font size
+14. Background color
+15. Number of post
+16. Hide content, hide client image, hide view all  
+17. Admin panel with lot of options to change
+18. Horizontal & Vertical 2types testimonial
+19. Shortcode power
+20. Very lightweight only 40kb
+21. Works with every version of wordpress
 
+<p style="font-style:italic">Where you want pretty testimonial ? just copy the shortcode and paste where you want the pretty testimonial &nbsp;&nbsp; <pre>[testimonial ]</pre> &nbsp;. If you want to category post create a category name please go to "Testimonial Category" under Pretty Testimonial custom post copy this shortcode and paste where you want <pre>[testimonial category="category name here"]</pre>. If you want to lotmore testimonial on a page give a unique id in shortcode like <pre>[testimonial id="1"], [testimonial id="2"],[testimonial id="3"]</pre>.</p> <br>
 
-<strong>This plugin have good options panel. You can use also by shortcode.</strong><br>
-
+<strong>This plugin have good options panel. You can use also by shortcode.</strong>
 <strong>1. Default testimonial with id (Give unique id)</strong>
 <pre>[testimonial id="1"]</pre>
 
@@ -51,29 +72,6 @@ You can change Pretty testimonial Slideshow Speed,Animation Speed,Testimonial Di
 <strong>8. Title font size </strong>
 <pre>[testimonial id="7" client_title_color="black"]</pre>
 
-Plugin Features:
-
-* Easy installable
-* Fully responsive
-* Supported all browser
-* Use a Random Testimonial to Your Sidebar
-* Use a Random Testimonial to Your Page
-* Category support with id
-* Number of post
-* Able To Use Multiple Testimonial Themes on the Same Page!
-* Support in widget
-* Title color
-* Content color
-* Title font size
-* Content font size
-* Background color
-* Number of post
-* Hide content, hide client image, hide view all  
-* Admin panel with lot of options to change
-* Horizontal & Vertical 2types testimonial
-* Shortcode power
-* Very lightweight only 40kb
-* Works with every version of wordpress
 
 == Installation ==
 This section describes how to install the plugin and get it working.
