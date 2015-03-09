@@ -14,12 +14,12 @@ Pretty testimonial is an awesome, super lightweight plugin for your wordpress we
 Wordpress Pretty Testimonial is a Highly customizable pretty testimonial jQuery plugin for your WordPress website. By this plugin you can customize your webpage pretty testimonial. And you can embed pretty testimonial in a single content via shortcode in everywhere you want, even in theme files.
 You can change Pretty testimonial Slideshow Speed,Animation Speed,Testimonial Direction,Animation Loop mode,Reverse Mode,Slideshow Mode,Smooth Height Mode, title color, title font size,content color, content font size,Testimonial background color,Hide or Show content,Client image Shape,Client image Shape, Client image size,Show or Hide Client image and other settings &amp; by using the options and shortcode of this plugin.
 
-<strong>See <a style="font-size:22px" href="http://raihanb.com/premium/pretty-testimonial-2">live demo</a></strong><br>
-<strong style="font-size:22px" >If you want this plugin lot of options panel with feature go to  <a href="http://demo.plugime.com/pretty-testimonial">This link</a></strong>
+<strong style="font-size:22px">See <a style="font-size:22px" href="http://raihanb.com/premium/pretty-testimonial-2">live demo</a></strong><br>
+<strong style="font-size:22px" >If you want this plugin with lot of options panel and feature go to  <a style="font-size:22px"  href="http://demo.plugime.com/pretty-testimonial">This link</a></strong>
 
 
 <strong>This plugin have good options panel. You can use also by shortcode.</strong><br>
-<strong>By shortcode use:</strong><br>
+<strong>Use by shortcode:</strong><br>
 <strong>1. Default testimonial with id (Give unique id)</strong>
 <pre>[testimonial id="1"]</pre>
 
@@ -57,7 +57,6 @@ Plugin Features:
 * Content font size
 * Background color
 * Number of post
-* Vertical and Horizontal testimonial 
 * Hide content, hide client image, hide view all  
 * Admin panel with lot of options to change
 * Horizontal & Vertical 2types testimonial
