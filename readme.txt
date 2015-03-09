@@ -95,13 +95,13 @@ Yes, Web always ready to assist you. Please visit <a href="http://plugime.com/co
 == Screenshots ==
 
 1. First style.
-2. Second screenshot.
-3. Third screenshot.
-4. Fourth screenshot.
-5. Fifth screenshot.
-6. Sixth screenshot.
-7. Seventh screenshot.
-8. Eighth screenshot.
+2. screenshot-2
+3. screenshot-3
+4. screenshot-4
+5. screenshot-5
+6. screenshot-6
+7. screenshot-7
+8. screenshot-8
 
 
 == Changelog ==
