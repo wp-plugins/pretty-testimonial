@@ -15,22 +15,6 @@ Wordpress Pretty Testimonial is a Highly customizable pretty testimonial jQuery 
 You can change Pretty testimonial Slideshow Speed,Animation Speed,Testimonial Direction,Animation Loop mode,Reverse Mode,Slideshow Mode,Smooth Height Mode, title color, title font size,content color, content font size,Testimonial background color,Hide or Show content,Client image Shape,Client image Shape, Client image size,Show or Hide Client image and other settings &amp; by using the options and shortcode of this plugin.
 
 
-== Installation ==
-
-This section describes how to install the plugin and get it working.
-
-e.g.
-
-1. Upload `plugin-directory.php` to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Place <?php echo do_shortcode('[testimonial]'); ?> in your templates
-
-=== Frequently Asked Questions ===
-= How do i install this plugin ? =
-You can install as other regular wordpress plugins. No different way. Please see on installation tab.
-= Can i get Support from you ?=
-Yes, Web always ready to assist you. Please visit <a href="http://plugime.com/contact">This site for support</a>
-
 
 
 Shortcodes:
@@ -75,6 +59,23 @@ Plugin Features:
 * Shortcode power
 * Works with every version of wordpress
 
+
+
+== Installation ==
+
+This section describes how to install the plugin and get it working.
+
+e.g.
+
+1. Upload `plugin-directory.php` to the `/wp-content/plugins/` directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Place <?php echo do_shortcode('[testimonial]'); ?> in your templates
+
+=== Frequently Asked Questions ===
+= How do i install this plugin ? =
+You can install as other regular wordpress plugins. No different way. Please see on installation tab.
+= Can i get Support from you ?=
+Yes, Web always ready to assist you. Please visit <a href="http://plugime.com/contact">This site for support</a>
 
 == Screenshots ==
 
