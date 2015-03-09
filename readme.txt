@@ -1,5 +1,6 @@
 === Pretty Testimonial ===
-Tags: Testimonial,Carousel,Slider,Pretty testimonial, Wordpress testimonial, wp testimonial, Testimonial wp, Testimonial wordpress,Effect testimonial, Awesome testimonial
+Tags: Testimonial,testimonials,WPML,client,Carousel,Slider,portfolio,customer,Pretty testimonial, Wordpress testimonial,Testimonial wordpress, wp testimonial, Testimonial wp,Effect testimonial, Awesome testimonial
+
 Requires at least: 3.0.1
 Tested up to: 4.1
 Stable tag: 1.0
@@ -49,8 +50,11 @@ Plugin Features:
 * Easy installable
 * Fully responsive
 * Supported all browser
-* Unlimited testimonial
+* Use a Random Testimonial to Your Sidebar
+* Use a Random Testimonial to Your Page
 * Category support with id
+* Able To Use Multiple Testimonial Themes on the Same Page!
+* Support in widget
 * Title color
 * Content color
 * Title font size
@@ -61,7 +65,7 @@ Plugin Features:
 * Admin panel with lot of options to change
 * Horizontal & Vertical 2types testimonial
 * Shortcode power
-* Very lightweight
+* Very lightweight only 40kb
 * Works with every version of wordpress
 
 == Installation ==
