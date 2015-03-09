@@ -15,12 +15,13 @@ Pretty testimonial is an awesome, super lightweight plugin for your wordpress we
 Wordpress Pretty Testimonial is a Highly customizable pretty testimonial jQuery plugin for your WordPress website. By this plugin you can customize your webpage pretty testimonial. And you can embed pretty testimonial in a single content via shortcode in everywhere you want, even in theme files.
 You can change Pretty testimonial Slideshow Speed,Animation Speed,Testimonial Direction,Animation Loop mode,Reverse Mode,Slideshow Mode,Smooth Height Mode, title color, title font size,content color, content font size,Testimonial background color,Hide or Show content,Client image Shape,Client image Shape, Client image size,Show or Hide Client image and other settings &amp; by using the options and shortcode of this plugin.
 
-### [See the Live demo!&raquo;](http://raihanb.com/premium/pretty-testimonial-2)
-### <h1 style="margin-bottom:25px;font-size:20px;font-style:italic;text-decoration:underline">If you want this plugin with lot of options and features please go to <a style="font-size:28px" href="http://demo.plugime.com/pretty-testimonial"> this link </a> </h1>
-####  Pretty Testimonial by  http://plugime.com
+* [See the Live demo!&raquo;](http://raihanb.com/premium/pretty-testimonial-2)
+### * <h1 style="margin-bottom:25px;font-size:20px;font-style:italic;text-decoration:underline">If you want this plugin with lot of options and features please go to <a style="font-size:28px" href="http://demo.plugime.com/pretty-testimonial"> this link </a> </h1>
+#### * Pretty Testimonial by  http://plugime.com <br>
 
-<strong> Plugin Features:- </strong>
+&nbsp;
 
+### Plugin Features:-
 1. Easy installable
 2. Fully responsive 
 3. Supported all browser
@@ -43,7 +44,7 @@ You can change Pretty testimonial Slideshow Speed,Animation Speed,Testimonial Di
 20. Very lightweight only 40kb 
 21. Works with every version of wordpress 
 
-<p style="font-style:italic">Where you want pretty testimonial ? just copy the shortcode and paste where you want the pretty testimonial &nbsp;&nbsp; <pre>[testimonial ]</pre> &nbsp;. If you want to category post create a category name please go to "Testimonial Category" under Pretty Testimonial custom post copy this shortcode and paste where you want <pre>[testimonial category="category name here"]</pre>. If you want to lotmore testimonial on a page give a unique id in shortcode like <pre>[testimonial id="1"], [testimonial id="2"],[testimonial id="3"]</pre>.</p> <br>
+<p style="font-style:italic">Where you want pretty testimonial ? just copy the shortcode and paste where you want the pretty testimonial &nbsp;&nbsp; [testimonial ] &nbsp;. If you want to category post create a category name please go to "Testimonial Category" under Pretty Testimonial custom post copy this shortcode and paste where you want [testimonial category="category name here"]. If you want to lotmore testimonial on a page give a unique id in shortcode like [testimonial id="1"], [testimonial id="2"],[testimonial id="3"].</p> <br>
 
 <strong>This plugin have good options panel. You can use also by shortcode.</strong>
 <strong>1. Default testimonial with id (Give unique id)</strong>
