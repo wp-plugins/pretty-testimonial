@@ -27,22 +27,23 @@ You can change Pretty testimonial Slideshow Speed,Animation Speed,Testimonial Di
 3. Supported all browser
 4. Use a Random Testimonial to Your Sidebar
 5. Use a Random Testimonial to Your Page 
-6. Category support with id 
-7. Number of post <br>
-8. Able To Use Multiple Testimonial Themes on the Same Page 
-9. Support in widget
-10. Title color 
-11. Content color 
-12. Title font size
-13. Content font size 
-14. Background color 
-15. Number of post 
-16. Hide content, hide client image, hide view all 
-17. Admin panel with lot of options to change 
-18. Horizontal & Vertical 2types testimonial 
-19. Shortcode power 
-20. Very lightweight only 40kb 
-21. Works with every version of wordpress 
+6. Category support
+7. ID support
+8. Number of post
+9. Able To Use Multiple Testimonial Themes on the Same Page 
+10. Support in widget
+11. Title color 
+12. Content color 
+13. Title font size
+14. Content font size 
+15. Background color 
+16. Number of post 
+17. Hide content, hide client image, hide view all 
+18. Admin panel with lot of options to change 
+19. Horizontal & Vertical 2types testimonial 
+20. Shortcode power 
+21. Very lightweight only 40kb 
+22. Works with every version of wordpress 
 
 <p style="font-style:italic">Where you want pretty testimonial ? just copy the shortcode (&nbsp;[testimonial ]&nbsp;) and paste where you want the pretty testimonial &nbsp;&nbsp;. If you want to category post create a category name please go to "Testimonial Category" under Pretty Testimonial custom post copy this shortcode (&nbsp; [testimonial category="category name here"] &nbsp; ) and paste where you want. If you want to lotmore testimonial on a page give a unique id in shortcode like [testimonial id="1"], [testimonial id="2"],[testimonial id="3"].</p>
 
