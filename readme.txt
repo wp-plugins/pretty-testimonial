@@ -14,34 +14,34 @@ Pretty testimonial is an awesome, super lightweight plugin for your wordpress we
 Wordpress Pretty Testimonial is a Highly customizable pretty testimonial jQuery plugin for your WordPress website. By this plugin you can customize your webpage pretty testimonial. And you can embed pretty testimonial in a single content via shortcode in everywhere you want, even in theme files.
 You can change Pretty testimonial Slideshow Speed,Animation Speed,Testimonial Direction,Animation Loop mode,Reverse Mode,Slideshow Mode,Smooth Height Mode, title color, title font size,content color, content font size,Testimonial background color,Hide or Show content,Client image Shape,Client image Shape, Client image size,Show or Hide Client image and other settings &amp; by using the options and shortcode of this plugin.
 
-<strong>See <a href="http://raihanb.com/premium/pretty-testimonial-2">live demo</a></strong>
+<strong>See <a href="http://raihanb.com/premium/pretty-testimonial-2">live demo</a></strong><br>
 <strong>If you want this plugin lot of options panel with feature go to  <a href="http://demo.plugime.com/pretty-testimonial">This link</a></strong>
 
 
-This plugin have good options panel. You can use also by shortcode.
-By shortcode use:
-<strong>Default testimonial with id (Give unique id)</strong>
+<strong>This plugin have good options panel. You can use also by shortcode.</strong><br>
+<strong>By shortcode use:</strong><br>
+<strong>1. Default testimonial with id (Give unique id)</strong>
 <pre>[testimonial id="1"]</pre>
 
-<strong>Support category</strong>
+<strong>2. Support category</strong>
 <pre>[testimonial category="your_category_name_here" id="2"]</pre>
 
-<strong> Change background color (put color name or HTML hex color code like #000) </strong>
+<strong>3. Change background color (put color name or HTML hex color code like #000) </strong>
 <pre>[testimonial id="3" bg_color="black"]</pre>
 
-<strong> Content font size </strong>
+<strong>4. Content font size </strong>
 <pre>[testimonial id="4" content_font_size="16px"]</pre>
 
-<strong> Content color </strong>
+<strong>5. Content color </strong>
 <pre>[testimonial id="5" content_color="black"]</pre>
 
-<strong> Hide content </strong>
+<strong>6. Hide content </strong>
 <pre>[testimonial id="6" client_content_none="none"]</pre>
 
-<strong> Title font size </strong>
+<strong>7. Title font size </strong>
 <pre>[testimonial id="6" client_title_font_size="16px"]</pre>
 
-<strong> Title font size </strong>
+<strong>8. Title font size </strong>
 <pre>[testimonial id="7" client_title_color="black"]</pre>
 
 Plugin Features:
@@ -50,11 +50,16 @@ Plugin Features:
 * Fully responsive
 * Supported all browser
 * Unlimited testimonial
-* Very lightweight
 * Category support with id
+* Title color
+* Content color
+* Title font size
+* Content font size
+* Background color
 * Admin panel with lot of options to change
 * Horizontal & Vertical 2types testimonial
 * Shortcode power
+* Very lightweight
 * Works with every version of wordpress
 
 == Installation ==
