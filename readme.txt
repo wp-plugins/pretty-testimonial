@@ -1,16 +1,6 @@
-
-Plugin Name: Pretty Testimonial Wordpress
-Plugin URI:  http://raihanb.com/premium/pretty-testimonial-2/
-Description: This plugin will enable pretty testimonial in your WordPress site. You can change lot of options from option panel and shortcode
-Author: Abu Sayed
-Author URI: http://plugime.com
-Version: 1.0
-*/
-
 === Pretty Testimonial ===
-
-Tag: Testimonial,carousel,slider,pretty testimonial, wordpress testimonial, wp testimonial, testimonial wp, testimonial wordpress,Effect testimonial, awesome testimonial,
-Requires at least: 3.0.
+Tag: Testimonial,Carousel,Slider,Pretty testimonial, Wordpress testimonial, wp testimonial, Testimonial wp, Testimonial wordpress,Effect testimonial, Awesome testimonial,
+Requires at least: 3.0.1
 Tested up to: 4.1
 Stable tag: 1.0
 License: GPLv2 or later
@@ -34,6 +24,13 @@ e.g.
 1. Upload `plugin-directory.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Place <?php echo do_shortcode('[testimonial]'); ?> in your templates
+
+=== Frequently Asked Questions ===
+= How do i install this plugin ? =
+You can install as other regular wordpress plugins. No different way. Please see on installation tab.
+= Can i get Support from you ?=
+Yes, Web always ready to assist you. Please visit <a href="http://plugime.com/contact">This site for support</a>
+
 
 
 Shortcodes:
@@ -78,25 +75,17 @@ Plugin Features:
 * Shortcode power
 * Works with every version of wordpress
 
-== Installation ==
-
-1. Install by ZIP File
-
-	a. From your WordPress dashboard, choose &#39;Add New&#39; under the &#39;Plugins&#39; category</li>
-	b. Select &#39;Upload&#39; from the set of links at the top of the page (the second link)</li>
-	c. From here, browse for the zip file included in your plugin purchase titled &#39;pretty-testimonial-installable.zip&#39; and click the &#39;Install Now&#39; button</li>
-	d. Once installation is complete, activate the plugin to enable its features.</li>
-
-2.  by FTP
-
-	a. Find the directory titled &#39;pretty-testimonial&#39; and upload it and all files within to the plugins directory of your WordPress install (/<i>WORDPRESS-DIRECTORY</i>/wp-content/plugins/) [e.g. www.yourdomain.com/wp-content/plugins/]</li>
-	b. From your WordPress dashboard, choose &#39;Installed Plugins&#39; option under the &#39;Plugins&#39; category</li>
-	c. Locate the newly added plugin and click on the &#39;Activate&#39; link to enable its features.</li>
-
 
 == Screenshots ==
 
-1. Installed in demo server.
+1. First style.
+2. Second screenshot.
+3. Third screenshot.
+4. Fourth screenshot.
+5. Fifth screenshot.
+6. Sixth screenshot.
+7. Seventh screenshot.
+7. Eighth screenshot.
 
 
 == Changelog ==
