@@ -16,8 +16,10 @@ Wordpress Pretty Testimonial is a Highly customizable pretty testimonial jQuery 
 You can change Pretty testimonial Slideshow Speed,Animation Speed,Testimonial Direction,Animation Loop mode,Reverse Mode,Slideshow Mode,Smooth Height Mode, title color, title font size,content color, content font size,Testimonial background color,Hide or Show content,Client image Shape,Client image Shape, Client image size,Show or Hide Client image and other settings &amp; by using the options and shortcode of this plugin.
 
 
-###  Pretty Testimonial by  http://plugime.com
+### <h1 style="margin-bottom:25px;font-size:20px;font-style:italic;text-decoration:underline">If you want this plugin with lot of options and features please go to <a style="font-size:28px" href="http://demo.plugime.com/pretty-testimonial"> this link </a> </h1>
+
 * [See the Live demo!&raquo;](http://raihanb.com/premium/pretty-testimonial-2)
+###  Pretty Testimonial by  http://plugime.com
 
 <strong>This plugin have good options panel. You can use also by shortcode.</strong><br>
 <strong>Use by shortcode:</strong><br>
