@@ -1,5 +1,5 @@
 === Pretty Testimonial ===
-Tags: Testimonial,testimonials,client,Carousel,Slider,portfolio,customer,Pretty testimonial, Wordpress testimonial,Testimonial wordpress, wp testimonial, Testimonial wp,Effect testimonial, Awesome testimonial
+Tags:Testimonial,testimonials,client,Carousel,Slider,portfolio,customer,Pretty testimonial, Wordpress testimonial,Testimonial wordpress, wp testimonial, Testimonial wp,Effect testimonial, Awesome testimonial
 
 Requires at least: 3.0.1
 Tested up to: 4.1
