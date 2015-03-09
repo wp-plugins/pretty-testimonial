@@ -255,7 +255,7 @@ function free_pretty_testimonial_options_framework() {
 
 <h1 style="margin-bottom:25px;font-size:20px;font-style:italic">Please go our plugins site there have lot more good plugins <a href="http://plugime.com">Click Here</a></h1>
 
-<h4 style="font-style:italic">Where you want pretty testimonial ? just copy the shortcode and paste where you want the pretty testimonial &nbsp;&nbsp; [testimonial id="1" category="home" ] &nbsp;( atfirst you must create a category. Please go to pretty testimonial custom post and create category name then put your category name like  category="category name" then you give a unique id in shortcode like id="id number" )</h4>
+<h4 style="font-style:italic">Where you want pretty testimonial ? just copy the shortcode and paste where you want the pretty testimonial &nbsp;&nbsp; [testimonial id="1" category="home" ] &nbsp;( atfirst you may create a category. Please go to pretty testimonial custom post and create category name then put your category name like  category="category name" then you give a unique id in shortcode like id="id number" )</h4>
 	
 	
 	<h2>WordPress Pretty Testimonial</h2>
