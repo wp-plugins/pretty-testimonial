@@ -1,5 +1,5 @@
 === Pretty Testimonial ===
-Tags: Testimonial,testimonials,WPML,client,Carousel,Slider,portfolio,customer,Pretty testimonial, Wordpress testimonial,Testimonial wordpress, wp testimonial, Testimonial wp,Effect testimonial, Awesome testimonial
+Tags: Testimonial,testimonials,client,Carousel,Slider,portfolio,customer,Pretty testimonial, Wordpress testimonial,Testimonial wordpress, wp testimonial, Testimonial wp,Effect testimonial, Awesome testimonial
 
 Requires at least: 3.0.1
 Tested up to: 4.1
@@ -59,6 +59,7 @@ Plugin Features:
 * Use a Random Testimonial to Your Sidebar
 * Use a Random Testimonial to Your Page
 * Category support with id
+* Number of post
 * Able To Use Multiple Testimonial Themes on the Same Page!
 * Support in widget
 * Title color
@@ -101,10 +102,10 @@ Yes, Web always ready to assist you. Please visit <a href="http://plugime.com/co
 == Screenshots ==
 
 1. First style.
-2. screenshot-1
-3. screenshot-1
-4. screenshot-1
-5. screenshot-1
+2. all-style
+3. admin-panel-one
+4. second-tab-admin-panel
+
 
 
 == Changelog ==
