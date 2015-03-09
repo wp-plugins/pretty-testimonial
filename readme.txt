@@ -98,7 +98,7 @@ Yes, Web always ready to assist you. Please visit <a href="http://plugime.com/co
 5. Fifth screenshot.
 6. Sixth screenshot.
 7. Seventh screenshot.
-7. Eighth screenshot.
+8. Eighth screenshot.
 
 
 == Changelog ==
