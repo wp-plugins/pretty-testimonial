@@ -45,7 +45,7 @@ You can change Pretty testimonial Slideshow Speed,Animation Speed,Testimonial Di
 21. Very lightweight only 40kb 
 22. Works with every version of wordpress 
 
-<p style="font-style:italic">Where you want pretty testimonial ? just copy the shortcode (&nbsp;[testimonial ]&nbsp;) and paste where you want the pretty testimonial &nbsp;&nbsp;. If you want to category post create a category name please go to "Testimonial Category" under Pretty Testimonial custom post copy this shortcode (&nbsp; [testimonial category="category name here"] &nbsp; ) and paste where you want. If you want to lotmore testimonial on a page give a unique id in shortcode like [testimonial id="1"], [testimonial id="2"],[testimonial id="3"].</p>
+<p style="font-style:italic">Where you want pretty testimonial ? just copy the shortcode (&nbsp;[testimonial ]&nbsp;) and paste where you want the pretty testimonial. If you want to category post create a category name please go to "Testimonial Category" under Pretty Testimonial custom post then copy this shortcode (&nbsp; [testimonial category="category name here"] &nbsp; ) and paste where you want. If you want to lotmore testimonial on a page give a unique id in shortcode like [testimonial id="1"], &nbsp; [testimonial id="2"], &nbsp; [testimonial id="3"]</p>
 
 <strong>This plugin have good options panel. You can use also by shortcode.</strong>
 <strong>1. Default testimonial with id (Give unique id)</strong>
