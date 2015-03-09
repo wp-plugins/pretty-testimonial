@@ -1,5 +1,5 @@
 === Pretty Testimonial ===
-Tag: Testimonial,Carousel,Slider,Pretty testimonial, Wordpress testimonial, wp testimonial, Testimonial wp, Testimonial wordpress,Effect testimonial, Awesome testimonial,
+Tags: Testimonial,Carousel,Slider,Pretty testimonial, Wordpress testimonial, wp testimonial, Testimonial wp, Testimonial wordpress,Effect testimonial, Awesome testimonial
 Requires at least: 3.0.1
 Tested up to: 4.1
 Stable tag: 1.0
@@ -14,11 +14,12 @@ Pretty testimonial is an awesome, super lightweight plugin for your wordpress we
 Wordpress Pretty Testimonial is a Highly customizable pretty testimonial jQuery plugin for your WordPress website. By this plugin you can customize your webpage pretty testimonial. And you can embed pretty testimonial in a single content via shortcode in everywhere you want, even in theme files.
 You can change Pretty testimonial Slideshow Speed,Animation Speed,Testimonial Direction,Animation Loop mode,Reverse Mode,Slideshow Mode,Smooth Height Mode, title color, title font size,content color, content font size,Testimonial background color,Hide or Show content,Client image Shape,Client image Shape, Client image size,Show or Hide Client image and other settings &amp; by using the options and shortcode of this plugin.
 
+<strong>See <a href="http://raihanb.com/premium/pretty-testimonial-2">live demo</a></strong>
+<strong>If you want this plugin lot of options panel with feature go to  <a href="http://demo.plugime.com/pretty-testimonial">This link</a></strong>
 
 
-
-Shortcodes:
-
+This plugin have good options panel. You can use also by shortcode.
+By shortcode use:
 <strong>Default testimonial with id (Give unique id)</strong>
 <pre>[testimonial id="1"]</pre>
 
@@ -43,9 +44,6 @@ Shortcodes:
 <strong> Title font size </strong>
 <pre>[testimonial id="7" client_title_color="black"]</pre>
 
-
-
-
 Plugin Features:
 
 * Easy installable
@@ -59,17 +57,23 @@ Plugin Features:
 * Shortcode power
 * Works with every version of wordpress
 
-
-
 == Installation ==
-
 This section describes how to install the plugin and get it working.
 
 e.g.
 
-1. Upload `plugin-directory.php` to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Place <?php echo do_shortcode('[testimonial]'); ?> in your templates
+1. Install by ZIP File
+
+	a. From your WordPress dashboard, choose &#39;Add New&#39; under the &#39;Plugins&#39; category</li>
+	b. Select &#39;Upload&#39; from the set of links at the top of the page (the second link)</li>
+	c. From here, browse for the zip file included in your plugin purchase titled &#39;pretty-testimonial-installable.zip&#39; and click the &#39;Install Now&#39; button</li>
+	d. Once installation is complete, activate the plugin to enable its features.</li>
+
+2.  by FTP
+
+	a. Find the directory titled &#39;pretty-testimonial&#39; and upload it and all files within to the plugins directory of your WordPress install (/<i>WORDPRESS-DIRECTORY</i>/wp-content/plugins/) [e.g. www.yourdomain.com/wp-content/plugins/]</li>
+	b. From your WordPress dashboard, choose &#39;Installed Plugins&#39; option under the &#39;Plugins&#39; category</li>
+	c. Locate the newly added plugin and click on the &#39;Activate&#39; link to enable its features.</li>
 
 === Frequently Asked Questions ===
 = How do i install this plugin ? =
