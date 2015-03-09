@@ -56,6 +56,9 @@ Plugin Features:
 * Title font size
 * Content font size
 * Background color
+* Number of post
+* Vertical and Horizontal testimonial 
+* Hide content, hide client image, hide view all  
 * Admin panel with lot of options to change
 * Horizontal & Vertical 2types testimonial
 * Shortcode power
