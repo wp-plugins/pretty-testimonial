@@ -103,7 +103,7 @@ Yes, Web always ready to assist you. Please visit <a href="http://plugime.com/co
 == Screenshots ==
 
 1. First style.
-2. all-style
+2. Second style
 3. admin-panel-one
 4. second-tab-admin-panel
 
