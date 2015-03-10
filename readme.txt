@@ -17,7 +17,7 @@ You can change Pretty testimonial Testimonial Direction, title color, title font
 
 * [See the Live demo!&raquo;](http://www.freeurltracker.com/redirect.php?u=plugime&p=17373)
 ### * <h1 style="margin-bottom:25px;font-size:20px;font-style:italic;text-decoration:underline">If you want this plugin with lot of options and features please go to <a style="font-size:28px" href="http://www.freeurltracker.com/redirect.php?u=plugime&p=17374"> this link </a> </h1>
-#### * Pretty Testimonial by  http://www.freeurltracker.com/redirect.php?u=plugime&p=17375
+#### * Pretty Testimonial by <a href="http://www.freeurltracker.com/redirect.php?u=plugime&p=17375">plugime.com</a>
 
 &nbsp;
 
