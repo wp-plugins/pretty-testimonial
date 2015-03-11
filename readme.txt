@@ -21,6 +21,10 @@ You can change Pretty testimonial Testimonial Direction, title color, title font
 
 &nbsp;
 
+### How to work this plugin please see video:- https://www.youtube.com/watch?v=hqKYFERIXrg
+
+&nbsp;
+
 ### Plugin Features:-
 1. Easy installable
 2. Fully responsive 
