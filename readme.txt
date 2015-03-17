@@ -77,6 +77,8 @@ You can change Pretty testimonial Testimonial Direction, title color, title font
 <strong>8. Title font size </strong>
 <pre>[testimonial id="9" client_title_color="black"]</pre>
 
+<strong>See the video how to work</strong> <br>
+https://www.youtube.com/watch?v=hqKYFERIXrg
 
 == Installation ==
 This section describes how to install the plugin and get it working.
