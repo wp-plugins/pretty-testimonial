@@ -251,7 +251,7 @@ function free_pretty_testimonial_options_framework() {
 
 <div class="wrap admin_panel">
 	
-<h1 style="margin-bottom:25px;font-size:20px;font-style:italic;text-decoration:underline">If you want this plugin with lot of options and features please go to <a style="font-size:28px" href="http://demo.plugime.com/pretty-testimonial"> this link </a> </h1>
+<h1 style="margin-bottom:25px;font-size:22px;font-style:italic">If you want to free our premium version Go to demo site of this plugin then go below you will see a button there have some content "Click here to download free our premium version with lot of good options panel and step by step documentation!" <a href="http://raihanb.com/premium/pretty-rev-slider/">Click Here</a></h1>	
 
 <h1 style="margin-bottom:25px;font-size:20px;font-style:italic">Please go our plugins site there have lot more good plugins <a href="http://plugime.com">Click Here</a></h1>
 
