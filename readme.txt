@@ -10,15 +10,16 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Pretty testimonial is an awesome, super lightweight plugin for your wordpress website. By installing this plugin you will get a awesome testimonial 
 
-== Description ==
+=== Description ===
 
 Wordpress Pretty Testimonial is a Highly customizable pretty testimonial jQuery plugin for your WordPress website. By this plugin you can customize your webpage pretty testimonial. And you can embed pretty testimonial in a single content via shortcode in everywhere you want, even in theme files.
 You can change Pretty testimonial Testimonial Direction, title color, title font size,content color, content font size,Testimonial background color,Hide or Show content,Show or Hide Client image and other settings &amp; by using the options and shortcode of this plugin.
 
 * [See the Live demo!&raquo;](http://www.freeurltracker.com/redirect.php?u=plugime&p=17373)
-* [Watch video Tutorial!&raquo;](http://www.freeurltracker.com/redirect.php?u=plugime&p=17402)
+* [Watch video Tutorial!&raquo;](http://adf.ly/1IIIR6)
 
 
+&nbsp;
 &nbsp;
 
 ### Plugin Features:-
